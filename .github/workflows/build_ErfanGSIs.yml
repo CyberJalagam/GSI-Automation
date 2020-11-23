@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://sourceforge.net/projects/nusantaraproject/files/begonia/Nusantara_v1.1-begonia-14102020-OFFICIAL-2116.zip
-  ROM_NAME: Nusantra
-  ZIP_NAME: Begonia
+  ROM_URL: https://oxygenos.oneplus.net/OnePlus8Oxygen_15.W.13_OTA_0130_all_2010200033_3bcf0e3fbdd2490d.zip
+  ROM_NAME: OxygenOS
+  ZIP_NAME: OOS-OP8-BETA-A11
   TZ: Asia/Kolkata
   MIR: bit
 jobs:
