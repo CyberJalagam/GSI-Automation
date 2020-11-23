@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX1901EX_11_OTA_1040_all_BbUuFdfQYcIr.ozip
-  ROM_NAME: ColorOS
-  ZIP_NAME: Realmeme
+  ROM_URL: https://sourceforge.net/projects/nusantaraproject/files/begonia/Nusantara_v1.1-begonia-14102020-OFFICIAL-2116.zip
+  ROM_NAME: Nusantra
+  ZIP_NAME: Begonia
   TZ: Asia/Kolkata
   MIR: bit
 jobs:
